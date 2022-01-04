@@ -28,7 +28,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(salmon, tomato);
+    background-color: #FA725B;
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
@@ -37,4 +37,5 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 200px;
 }

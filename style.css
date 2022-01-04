@@ -24,7 +24,7 @@ section{
     padding-left: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: 90%;
 }
 .link-button{
     text-decoration: none;
@@ -38,4 +38,14 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     margin-bottom: 200px;
+}
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.right-padding{
+    padding-right: 150px;
 }

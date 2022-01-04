@@ -68,3 +68,15 @@ button{
     background-repeat: no-repeat;
     background-position: left;
 }
+
+.flexible-container .first-part{
+    border-left: 7px solid;
+    border-image: linear-gradient(#FE9E79, #FF6447);
+    border-image-slice: 1;
+}
+
+.flexible-container .second-part{
+    border-left: 7px solid;
+    border-image: linear-gradient(#0207FF, cyan);
+    border-image-slice: 1;
+}
